@@ -12,7 +12,6 @@ from pytube import YouTube
 #유튜브 전용 인스턴스 생성
 yt = YouTube('https://youtube.com/watch?v=9bZkp7q19f0')
 # print(yt.streams.filter(only_audio=True).all())
-
 # 특정영상 다운로드
 yt.streams.filter(only_audio=True).first().download('./audio')
 print('완료')

@@ -110,10 +110,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-# 설운도	https://www.youtube.com/watch?v=WW2vcbBkyRk&list=WL
-# 김건모	https://www.youtube.com/watch?v=Boz6QhrxE8E&list=WL
-# 홍진영	https://www.youtube.com/watch?v=xHCFLeei5Wg&list=WL
-# 싸이	https://www.youtube.com/watch?v=9bZkp7q19f0&list=WL
-# 터보	https://www.youtube.com/watch?v=Ngyjoe86hPg&list=WL
-# 깅연자	https://www.youtube.com/watch?v=MPX-ojIEbDI&list=WL
